@@ -36,7 +36,7 @@ header p {
 
 .grid-container {
     display: grid;
-    grid-auto-columns: 20vw;
+    grid-auto-columns: 27vw;
     grid-auto-rows: 20vw;
     gap: 1em;
     grid-template-areas:
